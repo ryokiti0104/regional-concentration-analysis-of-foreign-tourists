@@ -1,4 +1,6 @@
 # Regional Concentration of Inbound Tourism in Japan
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 Data Source: Japan Tourism Agency（観光庁）Accommodation Travel Statistics（宿泊旅行統計調査）
 
