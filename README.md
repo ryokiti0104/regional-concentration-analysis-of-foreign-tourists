@@ -29,12 +29,9 @@ The distribution suggests that tourism in Japan is not purely concentrated in a 
 ## The Correlation between “Nationality Composition” and “the Proportion of Foreign Tourists”
 ![The Correlation](images/foreign_ratio.png)
 
-- Canada, Spain, and Italy show a “positive correlation”
-
-→ The higher the proportion of foreign tourists, the higher the number tends to be
-- Taiwan, Hong Kong, and Vietnam show a “negative correlation”
-
-→ They may be widely dispersed across rural areas
-- South Korea shows almost no correlation, while China falls somewhere in between
-
-→ Trends in East Asia vary depending on nationality
+#### Canada, Spain, and Italy show a “positive correlation”
+- → The higher the proportion of foreign tourists, the higher the number tends to be
+#### Taiwan, Hong Kong, and Vietnam show a “negative correlation”
+- → They may be widely dispersed across rural areas
+#### South Korea shows almost no correlation, while China falls somewhere in between
+- → Trends in East Asia vary depending on nationality
