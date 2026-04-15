@@ -22,3 +22,6 @@ This figure compares the scale of tourism across prefectures using total guest n
 - Prefectures in the Greater Tokyo Area (e.g., Chiba, Kanagawa) and regional hubs (e.g., Fukuoka, Aichi, Shizuoka) also maintain substantial tourism volumes.
 
 The distribution suggests that tourism in Japan is not purely concentrated in a single region, but rather supported by multiple regional centers.
+
+## The Correlation between “Nationality Composition” and “the Proportion of Foreign Tourists”
+![The Correlation](images/foreign_ratio.png)
