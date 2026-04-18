@@ -47,17 +47,17 @@ This figure compares the scale of tourism across prefectures using total guest n
 The distribution suggests that tourism in Japan is not purely concentrated in a single region, but rather supported by multiple regional centers.
 
 ### Tokyo Foreign Guest Nights by Nationality
-![Tokyo Foreign Guest Nights by Nationality](tokyo_foreign_guest_nights_by_nationality.png)
+![Tokyo Foreign Guest Nights by Nationality](images/tokyo_foreign_guest_nights_by_nationality.png)
 This figure shows foreign guest nights in Tokyo by nationality. China and the United States account for the largest volumes, followed by Taiwan and South Korea. The composition suggests that Tokyo functions as a globally diversified gateway rather than relying on a single source market.
 
 ### Tokyo Kyoto Nationality Share Comparison
-![Tokyo Kyoto Nationality Share Comparison](tokyo_kyoto_nationality_share_comparison.png)
+![Tokyo Kyoto Nationality Share Comparison](images/tokyo_kyoto_nationality_share_comparison.png)
 - East Asia + US dominate both cities — China, Korea, Taiwan, and the US together account for roughly half of all stays in each.
 - Kyoto leans more toward China; Tokyo toward Korea and the US — the gaps aren't huge, but they're consistent.
 - Kyoto's "Other" share is notably higher (~16% vs ~13%), suggesting a more globally diverse visitor base compared to Tokyo's more regionally concentrated one.
 
 ### Kanagawa Osaka Nationality Share Comparison
-![Kanagawa Osaka Nationality Share Comparison](kanagawa_osaka_nationality_share_comparison.png)
+![Kanagawa Osaka Nationality Share Comparison](images/kanagawa_osaka_nationality_share_comparison.png)
 This figure compares nationality shares between Kanagawa and Osaka. Osaka depends more heavily on East Asian markets such as China and South Korea, while Kanagawa shows a stronger presence of Western visitors, especially from the United States.
 
 ### The Correlation between “Nationality Composition” and “the Proportion of Foreign Tourists”
