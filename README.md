@@ -3,6 +3,16 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-6A5ACD?style=for-the-badge&logo=matplotlib&logoColor=white)
 
+## Overview
+This project analyzes regional differences in inbound tourism across Japan using the 2025 Accommodation Travel Statistics released by the Japan Tourism Agency.
+
+The analysis focuses on three key dimensions:
+- Foreign guest ratio by prefecture
+- Tourism scale based on total guest nights
+- Nationality composition of foreign visitors 
+
+Using ranking analysis, scatter plots, correlation analysis, and clustering, this project explores how inbound tourism is distributed across Japanese prefectures and identifies different regional tourism patterns.
+
 ## Data Source:
 Japan Tourism Agency（観光庁）Accommodation Travel Statistics（宿泊旅行統計調査）
 
