@@ -21,6 +21,11 @@ https://www.mlit.go.jp/kankocho/tokei_hakusyo/shukuhakutokei.html
 
 ## Key Findings
 
+- Tokyo and Kyoto recorded the highest foreign guest ratios (around 55%).
+- Osaka and Hokkaido showed the largest tourism scale outside Tokyo.
+- Tourism scale and foreign guest ratio had a relatively strong positive correlation.
+- Nationality composition varied significantly across major destinations. Tokyo showed the most balanced international mix, Osaka relied more heavily on East Asian markets such as China and South Korea, while Kyoto attracted a relatively larger share of long-haul Western visitors.
+
 ## Visualizations
 ### Foreign Tourist Ratio by Prefecture (Top 10, 2025)
 ![Foreign Tourist Ratio by Prefecture (Top 10, 2025)](images/foreign-ratio10.png)
@@ -45,8 +50,8 @@ The distribution suggests that tourism in Japan is not purely concentrated in a 
 ![The Correlation](images/foreign_ratio.png)
 #### Key Observations
 ##### Canada, Spain, and Italy show a “positive correlation”
-The higher the proportion of foreign tourists, the higher the number tends to be
+- The higher the proportion of foreign tourists, the higher the number tends to be
 ##### Taiwan, Hong Kong, and Vietnam show a “negative correlation”
-They may be widely dispersed across rural areas
+- They may be widely dispersed across rural areas
 ##### South Korea shows almost no correlation, while China falls somewhere in between
-Trends in East Asia vary depending on nationality
+- Trends in East Asia vary depending on nationality
