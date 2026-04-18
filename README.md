@@ -55,3 +55,6 @@ The distribution suggests that tourism in Japan is not purely concentrated in a 
 - They may be widely dispersed across rural areas
 ##### South Korea shows almost no correlation, while China falls somewhere in between
 - Trends in East Asia vary depending on nationality
+
+## Conclusion
+Inbound tourism in Japan is concentrated in several major destinations, but visitor composition varies widely across prefectures. Both tourism scale and nationality structure help explain regional tourism patterns.
